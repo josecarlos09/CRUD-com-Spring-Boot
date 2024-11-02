@@ -1,8 +1,8 @@
 # Descrição do projeto: 
 
-A aplicação está organizada em uma arquitetura modular com camadas bem definidas, que são: Models, Controllers, Repositorys, Services, DTOs, Migrations, Configs e SpringDoc Essa estrutura permite realizar operações de CRUD (Create, Read, Update, Delete) via endpoints, garantindo uma separação clara de responsabilidades e facilitando a manutenção e escalabilidade. Abaixo, está descrito o papel de cada camada: 
+A aplicação está organizada em uma arquitetura modular com camadas bem definidas, que são: Models, Controllers, Repositorys, Services, DTOs, Migrations, Configs e SpringDoc. Essa estrutura permite realizar operações de CRUD (Create, Read, Update, Delete) via endpoints, garantindo uma separação clara de responsabilidades e facilitando a manutenção e escalabilidade. Abaixo, está descrito o papel de cada camada: 
 
-# Organização do projeto
+# Organização do projeto:
 __Model:__  Define as entidades que representam as tabelas do banco de dados, utilizando anotações JPA para configurar chaves primárias, relacionamentos e restrições. 
 
  
